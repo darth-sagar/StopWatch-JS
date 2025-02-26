@@ -25,11 +25,6 @@ A simple stopwatch web application built using HTML, CSS, and JavaScript. The st
    ```bash
    git clone https://github.com/yourusername/stopwatch-project.git
    ```
-2. Navigate to the project folder:
-   ```bash
-   cd stopwatch-project
-   ```
-3. Open `index.html` in your browser.
 
 ## Contributing
 Feel free to fork this repository and submit pull requests with improvements or new features.
