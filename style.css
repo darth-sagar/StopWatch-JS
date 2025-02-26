@@ -1,0 +1,124 @@
+body{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    background-image: url("pexels-simon73-1323550.jpg");
+    background-size: cover;
+
+}
+.div-stopwatch{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 4px solid black;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color: white ;
+    
+    
+
+}
+.div-heading{
+    color-scheme: black;
+    font-size: 30px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+.stopwatch{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 4px solid black;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: white;
+    
+    
+}
+#display{
+    font-size: 4rem;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+
+    
+}
+.div-buttons button{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    transition:ease-in-out 0.2s;
+
+}
+#start{
+    background-color: rgba(20, 235, 20, 0.87);
+    color: white;
+    
+}
+#start:hover{
+    background-color: rgb(20, 235, 20);
+}
+#stop{
+    background-color: rgba(255, 0, 0, 0.877);
+    color: white;
+}
+#stop:hover{
+    background-color: rgb(235, 20, 20);
+}
+#reset{
+    background-color: rgba(0, 255, 255, 0.767);
+    color: white;
+}
+#reset:hover{
+    background-color: cyan;
+}
+
+/* record heading */
+
+.div-record{
+    margin-left: 30px;
+    border: 4px solid black;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color: white;
+    height: 335px;
+    overflow-y: auto;
+}
+.div-record-heading{
+    color-scheme: black;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.div-buttons button{
+    background-color: grey;
+    color: black
+}
+.div-buttons button:hover{
+    background-color: rgba(0, 0, 0, 0.74);
+    color: white;
+    transition:ease-in-out 0.2s;
+}
+.record-list{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    overflow-y: scroll;
+    
+}
+#record-list li{
+    font-size: 1.5rem;
+    font-weight: bold;
+    
+}
