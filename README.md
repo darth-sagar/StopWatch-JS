@@ -1,8 +1,8 @@
 # Stopwatch Project
 
 A simple stopwatch web application built using HTML, CSS, and JavaScript. The stopwatch allows users to start, stop, reset, and record lap times.
-![Alt text](Resources/P1.png)
-![Alt text](Resources/P2.png)
+![Alt text](Assets/P1.png)
+![Alt text](Assets/P2.png)
 
 ## Features
 - Start, stop, and reset functionality
