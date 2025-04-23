@@ -4,9 +4,13 @@ A simple stopwatch web application built using HTML, CSS, and JavaScript. The st
 
 ## Features
 
-- Start, stop, and reset functionality
-- Lap time recording
-- Clear recorded times
+* **Accurate Stopwatch:** Measures time elapsed with precision (typically milliseconds).
+* **Start, Stop, and Reset Functionality:** Intuitive buttons to control the stopwatch.
+* **Lap Timing:** Ability to record individual lap times while the stopwatch is running.
+* **Responsive Design:** The layout adjusts fluidly to various screen sizes (desktops, tablets, and mobile devices) thanks to responsive CSS techniques (e.g., media queries).
+* **Record Board:** A dedicated section to display the recorded lap times in a clear and organized manner.
+* **Clear Lap Records:** Each recorded lap shows its sequential number and the time taken.
+* **User-Friendly Interface:** Clean and simple design for ease of use.
 
 ## Technologies Used
 
