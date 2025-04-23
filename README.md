@@ -26,7 +26,7 @@ A simple stopwatch web application built using HTML, CSS, and JavaScript. The st
 
 ![Alt text](Assets/Screenshots/P1.png)
 ![Alt text](Assets/Screenshots/P2.png)
-![Alt text](Assets/Screenshots/p-3.png)
+![Alt text](Assets/Screenshots/p-3.jpg)
 
 ## Installation
 
